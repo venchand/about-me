@@ -2,7 +2,7 @@
 
 A total of more than **3000 contributions** spanning across 5 years at Trinet Zenefits
 
-_Github Profile_(publicly available): https://github.com/cvenisetty
+_Work Github Profile_(publicly available): https://github.com/cvenisetty
 
 
 ### 2024
